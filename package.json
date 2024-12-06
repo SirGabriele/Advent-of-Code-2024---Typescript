@@ -4,7 +4,7 @@
   "description": "",
   "main": "solution.js",
   "scripts": {
-    "dev": "npx tsx watch src/04/solution.ts",
+    "dev": "npx tsx watch src/05/solution.ts",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
